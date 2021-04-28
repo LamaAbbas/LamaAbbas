@@ -1,0 +1,4 @@
+- Hi, I’m @LamaAbbas
+- I’m interested in learning everything I can to become a more advanced programmer and software developer
+- I’m currently learning React
+- Reach me through email: lama.abbas2000@hotmail.com
